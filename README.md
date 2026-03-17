@@ -1,7 +1,5 @@
-# Hi i'm Muhamad Fachrudin 👋
-
 # 💫 About Me:
-Student in Information Technology who has an interest in web development, data analysis, intelligent systems, and artificial intelligence.
+I am an Information Technology student interested in web development, data analysis, intelligent systems, and artificial intelligence.
 
 
 ## 🌐 Socials:
